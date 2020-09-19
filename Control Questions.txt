@@ -41,3 +41,4 @@
 Что такое gitignore
 Что в gitignore означают *.log !error.log /TODO build/ doc/*.txt doc/**/*.pdf
 Что такое fast-forward merge
+Почему могут возникать конфликты
