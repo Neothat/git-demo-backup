@@ -41,3 +41,6 @@
 Что такое gitignore
 Что в gitignore означают *.log !error.log /TODO build/ doc/*.txt doc/**/*.pdf
 Что такое fast-forward merge
+Что таоке non-fast-forward merge
+Как создать новую ветку
+Как перейти на существующую ветку
