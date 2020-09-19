@@ -32,3 +32,7 @@
 Что делает командда git reset
 Какие флаги есть у git reset
 Что делает команда git reset --hard HEAD~2
+Что делает команда git revert
+Как работает текстовый редактор Vim
+Что такое gitignore
+Что в gitignore означают *.log !error.log /TODO build/ doc/*.txt doc/**/*.pdf
