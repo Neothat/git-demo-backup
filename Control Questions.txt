@@ -71,3 +71,10 @@
 Что делает команда git stash list
 Что делает команда git stash pop(apply)
 Что делает команда git stash drop
+Как узнать куда идеть push и откуда fetch
+Что делает команда git remote -v
+Как удалить remote
+Что делает команда git remote remove origin
+Как добавить remote
+Что делает команда git remote add origin (адрес SSH)
+Как копирывать в gitBash
